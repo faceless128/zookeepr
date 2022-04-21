@@ -110,11 +110,12 @@
       "id": "10"
     },
     {
-      "name": "Larry",
-      "species": "Lemur",
+      "name": "Sam",
+      "species": "Toucan",
       "diet": "omnivore",
       "personalityTraits": [
-        "hungry"
+        "goofy",
+        "loving"
       ],
       "id": "11"
     }
