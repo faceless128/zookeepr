@@ -108,6 +108,16 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Sam",
+      "species": "Toucan",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "goofy",
+        "loving"
+      ],
+      "id": "11"
     }
   ]
 }
